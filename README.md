@@ -10,17 +10,13 @@
     <br><br>
     ❤闇を抱きしめている
     <br>
-    <img height="40" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="socials"/>
+        <a href="https://discordapp.com/users/1143255509521141890">
+            <img src="https://github-readme-stats.vercel.app/api?username=araucaris&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+        </a>
 </p>
 
 <br>
 <p align="center">
-  <picture>
-      <a href="https://discordapp.com/users/1143255509521141890">
-        v<img src="https://github-readme-stats.vercel.app/api?username=araucaris&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
-      </a>
-  </picture>
-
   <br>
   <picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=araucaris&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
