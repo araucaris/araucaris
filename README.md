@@ -1,16 +1,28 @@
-## Hi there 👋
+<h6><p align="right">どう</p></h6>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
+<a href="https://discordapp.com/users/1143255509521141890">
+</a>
+<h1><p align="right">かしば</p></h1>
 
-<!--
-**araucaris/araucaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+    <img src="whatiswe.gif" alt="who are we to each other?"/>
+    <br><br>
+    ❤闇を抱きしめている
+    <br>
+    <img height="40" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="socials"/>
+</p>
 
-Here are some ideas to get you started:
+<br>
+<p align="center">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=araucaris&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+  </picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=araucaris&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+  </picture>
+</p>
+
+<img src="https://count.getloli.com/get/@:a?theme=rule24" width="100%">
