@@ -16,7 +16,9 @@
 <br>
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=araucaris&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+      <a href="https://discordapp.com/users/1143255509521141890">
+        <img src="https://github-readme-stats.vercel.app/api?username=araucaris&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+      </a>
   </picture>
 
   <br>
