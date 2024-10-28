@@ -10,9 +10,11 @@
     <br><br>
     ❤闇を抱きしめている
     <br>
-    <a href="https://discordapp.com/users/1143255509521141890">
-        <img height="40" align="left" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
-    </a>
+    <p align="center">
+        <a href="https://discordapp.com/users/1143255509521141890">
+            <img height="40" align="left" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
+        </a>
+    </p>
 </p>
 
 <br>
