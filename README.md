@@ -18,7 +18,7 @@
 <br>
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=araucaris&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=araucaris&theme=omni&show_icons=true&hide_border=true&count_private=true"/>
 </p>
 
 <img src="https://count.getloli.com/get/@:a?theme=rule24" width="100%">
