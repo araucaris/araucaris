@@ -21,9 +21,9 @@
 
 <br>
 <details open align="center">
-  <summary>Contact</summary>
+  <summary>Liaisons</summary>
   <a href="https://discordapp.com/users/1143255509521141890">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
+    <img height="40" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
   <br>
 </details>
