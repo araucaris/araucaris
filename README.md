@@ -1,5 +1,5 @@
 <h6><p align="right">どう</p></h6>
-<img height="40" align="left" src="https://skillicons.dev/icons?i=cpp,java,kotlin,idea&theme=dark"/>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=cpp,visualstudio,java,kotlin,idea&theme=dark"/>
 <a href="https://discordapp.com/users/1143255509521141890">
 </a>
 <h1><p align="right">かしば</p></h1>
