@@ -10,9 +10,6 @@
     <br><br>
     闇を抱きしめている
     <br>
-    <a href="https://discordapp.com/users/1143255509521141890">
-        <img align="center"height="40" align="left" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
-    </a>
 </p>
 
 <br>
@@ -21,5 +18,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=araucaris&theme=omni&show_icons=true&hide_border=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=araucaris&theme=omni&hide_border=true"/>
 </p>
+
+<br>
+    <a href="https://discordapp.com/users/1143255509521141890">
+        <img align="center"height="40" align="left" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
+    </a>
 
 <img src="https://count.getloli.com/get/@:a?theme=rule24" width="100%">
