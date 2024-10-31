@@ -20,8 +20,8 @@
 </p>
 
 <br>
-    <a href="https://discordapp.com/users/1143255509521141890">
-        <img align="center"height="40" align="left" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
-    </a>
+<a href="https://discordapp.com/users/1143255509521141890">
+    <img align="center" height="40" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
+</a>
 
 <img src="https://count.getloli.com/get/@:a?theme=rule24" width="100%">
