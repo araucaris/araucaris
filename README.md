@@ -6,14 +6,6 @@
 
 <br>
 <p align="center">
-    <img src="whatiswe.gif" alt="who are we to each other?"/>
-    <br><br>
-    闇を抱きしめている
-    <br>
-</p>
-
-<br>
-<p align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=araucaris&theme=omni&show_icons=true&hide_border=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=araucaris&theme=omni&hide_border=true"/>
