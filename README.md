@@ -1,6 +1,6 @@
 <h6><p align="right">どう</p></h6>
 <img 
-    src="https://skillicons.dev/icons?i=cpp,visualstudio,java,kotlin,idea&theme=dark" 
+    src="https://skillicons.dev/icons?i=cpp,visualstudio,java,kotlin,idea,linux,docker,spring,mongodb,postgres,cassandra,redis,bots&theme=dark" 
     height="40" 
     align="left" 
     alt="Skill Icons: C++, Visual Studio, Java, Kotlin, IntelliJ IDEA"
