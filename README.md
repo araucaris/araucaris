@@ -10,6 +10,10 @@
 <p align="center">
 <br>
 <img src="banner.gif"/>
+<br>
+<a href="https://discordapp.com/users/1143255509521141890">
+    <img height="30" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
+</a>
 </p>
 
 <br>
@@ -21,9 +25,7 @@
 <br>
 <details align="center">
   <summary>Liaisons</summary>
-  <a href="https://discordapp.com/users/1143255509521141890">
-    <img height="40" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
-  </a>
+
   <br>
 </details>
 
