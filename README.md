@@ -1,12 +1,10 @@
 <h6><p align="right">どう</p></h6>
-<a href="https://discordapp.com/users/1143255509521141890">
-    <img 
-        src="https://skillicons.dev/icons?i=cpp,visualstudio,java,kotlin,idea&theme=dark" 
-        height="40" 
-        align="left" 
-        alt="Skill Icons: C++, Visual Studio, Java, Kotlin, IntelliJ IDEA"
-    />
-</a>
+<img 
+    src="https://skillicons.dev/icons?i=cpp,visualstudio,java,kotlin,idea&theme=dark" 
+    height="40" 
+    align="left" 
+    alt="Skill Icons: C++, Visual Studio, Java, Kotlin, IntelliJ IDEA"
+/>
 <h1><p align="right">かしば</p></h1>
 
 <p align="center">
