@@ -4,8 +4,10 @@
 </a>
 <h1><p align="right">かしば</p></h1>
 
+<p align="center">
 <br>
 <img src="banner.gif"/>
+</p>
 
 <br>
 <p align="center">
