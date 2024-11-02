@@ -11,6 +11,7 @@
 <br>
 <img src="banner.gif"/>
 <br>
+<br>
 <a href="https://discordapp.com/users/1143255509521141890">
     <img height="30" src="https://skillicons.dev/icons?i=discord&theme=dark"/>
 </a>
