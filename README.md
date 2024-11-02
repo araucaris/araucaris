@@ -1,8 +1,11 @@
 <h6><p align="right">どう</p></h6>
-<img height="40" align="left" src="https://skillicons.dev/icons?i=cpp,visualstudio,java,kotlin,idea&theme=dark"/>
 <a href="https://discordapp.com/users/1143255509521141890">
+<img height="40" align="left" src="https://skillicons.dev/icons?i=cpp,visualstudio,java,kotlin,idea&theme=dark"/>
 </a>
 <h1><p align="right">かしば</p></h1>
+
+<br>
+<img src="banner.gif"/>
 
 <br>
 <p align="center">
