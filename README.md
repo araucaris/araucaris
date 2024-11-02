@@ -23,10 +23,4 @@
 </p>
 
 <br>
-<details align="center">
-  <summary>Liaisons</summary>
-
-  <br>
-</details>
-
 <img src="https://count.getloli.com/get/@:a?theme=rule24" width="100%">
