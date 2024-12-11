@@ -12,7 +12,7 @@
     align="left" 
     alt="Skill Icons: C++, Visual Studio, Java, Kotlin, IntelliJ IDEA"
 />
-<h1><p align="right">flash</p></h1>
+
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=variondev&theme=dark&show_icons=true&hide_border=true&count_private=true"/>  
